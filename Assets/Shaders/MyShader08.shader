@@ -1,4 +1,4 @@
-Shader "Custom/MyShader8"{	
+Shader "Custom/MyShader08"{	
     Properties{
         _Color("Color", Color) = (1, 1, 1, 1)
         _MainTex("Texture", 2D) = "white" {}

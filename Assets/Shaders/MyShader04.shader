@@ -1,4 +1,4 @@
-Shader "Custom/MyShader4"{	
+Shader "Custom/MyShader04"{	
     Properties{
         _Color("Color", Color) = (1, 1, 1, 1)
     }
