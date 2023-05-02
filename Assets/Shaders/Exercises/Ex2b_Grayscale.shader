@@ -1,4 +1,4 @@
-Shader "Exercise/Ex2b_Grayscale"{	
+Shader "Exercises/Ex2b_Grayscale"{	
 
   Properties{
     _MainTex ("Source", 2D) = "white" {}	

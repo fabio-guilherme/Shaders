@@ -1,4 +1,4 @@
-Shader "Exercise/Ex2a_RedTone"{	
+Shader "Exercises/Ex2a_RedTone"{	
 
   Properties{
     _MainTex ("Source", 2D) = "white" {}	

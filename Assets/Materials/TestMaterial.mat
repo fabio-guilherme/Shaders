@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: TestMaterial
-  m_Shader: {fileID: 4800000, guid: 3611b03e723ba4521acefe9e0fcfeb13, type: 3}
+  m_Shader: {fileID: 4800000, guid: 23b274cec3fc3431fbfc3e2f0dc0a653, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
@@ -72,7 +72,7 @@ Material:
     - _BumpScale: 1
     - _Cutoff: 0.5
     - _DetailNormalMapScale: 1
-    - _DissolveCutoff: 0.18
+    - _DissolveCutoff: 0.14
     - _DstBlend: 0
     - _ExtrudeAmount: 0.2
     - _GlossMapScale: 1
