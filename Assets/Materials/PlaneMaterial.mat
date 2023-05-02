@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: PlaneMaterial
-  m_Shader: {fileID: 4800000, guid: 8c4feb3cbe8df4f91b95f52973bb0942, type: 3}
+  m_Shader: {fileID: 4800000, guid: 5663a2d6580dc4093bbabcfe58be685d, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
