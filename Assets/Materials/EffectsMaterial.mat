@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: EffectsMaterial
-  m_Shader: {fileID: 4800000, guid: bff25e9f44b1f466382f738d3093eb65, type: 3}
+  m_Shader: {fileID: 4800000, guid: efd0a052adeae492a8bb549a6478f311, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
